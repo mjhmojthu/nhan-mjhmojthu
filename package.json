@@ -1,0 +1,9 @@
+{
+  "name": "nhan-mjhmojthu",
+  "version": "1.0.0",
+  "description": "Thư viện nhỏ để nhân hai số bất kỳ",
+  "main": "index.js",
+  "keywords": ["nhan", "math", "multiply", "tea protocol"],
+  "author": "mjhmojthu",
+  "license": "MIT"
+}
